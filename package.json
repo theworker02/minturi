@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/minturi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mint URLs and uri query parts with stable normalization.",
+  "bin": {
+    "minturi": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/minturi.git"
+  },
+  "homepage": "https://theworker02.github.io/minturi/",
+  "keywords": [
+    "mint",
+    "uri",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
